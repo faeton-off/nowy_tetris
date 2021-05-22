@@ -66,7 +66,7 @@ void TetrixBoard::pause()// временная остановка игры //tym
 
     isPaused = !isPaused;
     if (isPaused) {//git proverka
-        timer.stop();
+        timer.stop();//gitproverych
     } else {
         timer.start(timeoutTime(), this);
     }
