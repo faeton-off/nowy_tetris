@@ -8,7 +8,7 @@
 
 QT_BEGIN_NAMESPACE
 class QLabel;
-QT_END_NAMESPACE
+QT_END_NAMESPACE//djddsfsd
 
 class Plansza: public QFrame
 {
